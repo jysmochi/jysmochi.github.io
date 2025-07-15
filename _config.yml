@@ -645,7 +645,7 @@ jsonresume:
 
 exclude:
 # blog
-  - _posts
+#  - _posts
   - _pages/blog.md
   - _pages/dropdown.md
   - _includes/latest_posts.liquid
@@ -662,7 +662,6 @@ exclude:
   - _pages/teaching.md
   - _pages/profiles.md
   - _pages/repositories.md
-  - _pages/people.md
   - _projects/1_project.md
   - _projects/2_project.md
   - _projects/3_project.md
