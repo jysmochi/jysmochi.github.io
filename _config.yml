@@ -660,7 +660,7 @@ exclude:
   # - _includes/selected_papers.liquid
 # others
   - _pages/teaching.md
-  - _pages/people.md
+  - _pages/profiles.md
   - _pages/repositories.md
   - _pages/people.md
   - _projects/1_project.md
